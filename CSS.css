@@ -1,0 +1,43 @@
+
+<link rel="stylesheet" type="text/css" href="CSS.css">
+h3
+table{
+	border-color: #ffffff
+}
+{font-family: "bebas neues";
+}
+h2
+{font-family: "bebas neues";
+}
+input
+{background-color: #FBEFF8;
+	color:black;
+	padding: 24 px 28px;
+	border: none;
+	border-radius: 2px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color:#F2E0F7;
+}
+
+.container {
+	border-radius: 5px;
+	background-color: #FBEFF8;
+	padding: 24px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table th {
+	text-align: center;
+	background-color: #FBEFF8;
+	color: #F2E0F7;
+	padding: 0px 0px;
+}
+
+
+
